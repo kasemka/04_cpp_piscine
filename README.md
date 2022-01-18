@@ -14,8 +14,8 @@ CPP4: subtype polymorphism, abstract classes, interfaces
 
 CPP5: repetition and Exceptions
 
-CPP6: C++ Casts
+CPP6: C++ casts
 
-CPP7: C++ Templates
+CPP7: C++ templates
 
 CPP8: templated containers, iterators, algorithms
